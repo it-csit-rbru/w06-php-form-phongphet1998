@@ -16,7 +16,7 @@
             <label for="sid">รหัสนักศึกษา</label><input type="text" name="sid">
             <label for="fname">ชื่อ</label><input type="text" name="fname">
             <label for="lname">นามสกุล</label><input type="text" name="lname"><br>
-            <label for="programe">สาชาวิชา</label>
+            <label for="program">สาชาวิชา</label>
                 <select name="program">
                         <option value="1">วิทยาการคอมพิวเตอร์</option>
                         <option value="2">เทคโนโลยีสารสนเทศ</option>
